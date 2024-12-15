@@ -1,0 +1,3 @@
+# Incorrect innerHTML Assignment with Array in HTML
+
+This repository demonstrates an uncommon bug related to the `innerHTML` property in HTML.  The bug arises from incorrectly assigning an array to the `innerHTML` property, which is designed to accept a string.  This results in the content not being displayed correctly. The solution shows the correct way to handle this situation.  The bug and its solution are contained in the 'bug.html' and 'solution.html' files, respectively.  This example is useful for understanding subtle issues that can arise when working with HTML DOM manipulation.
